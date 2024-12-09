@@ -20,10 +20,6 @@ const App: React.FC = () => {
     setTodos(todos.map((todo) => (todo.id === id ? { ...todo, completed: !todo.completed } : todo)));
   };
 
-  const removeTodo = (id: number) => {
-    setTodos(todos.filter((todo) => todo.id !== id));
-  };
-
   const clearCompleted = () => {
     setTodos(todos.filter((todo) => !todo.completed));
   };
