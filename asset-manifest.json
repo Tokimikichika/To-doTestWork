@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/To-doTestWork/static/css/main.1efc8fbd.css",
+    "main.js": "/To-doTestWork/static/js/main.c4ab12bb.js",
+    "index.html": "/To-doTestWork/index.html",
+    "main.1efc8fbd.css.map": "/To-doTestWork/static/css/main.1efc8fbd.css.map",
+    "main.c4ab12bb.js.map": "/To-doTestWork/static/js/main.c4ab12bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1efc8fbd.css",
+    "static/js/main.c4ab12bb.js"
+  ]
+}
