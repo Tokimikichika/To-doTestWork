@@ -40,6 +40,7 @@
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^6.0.0",
-    "@types/jest": "^29.5.14"
+    "@types/jest": "^29.5.14",
+    "gh-pages": "^6.2.0"
   }
 }
